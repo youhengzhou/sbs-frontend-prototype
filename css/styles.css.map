@@ -1,0 +1,17 @@
+{
+	"version": 3,
+	"file": "styles.css",
+	"sourceRoot": "/home/runner/work/sbs-frontend-prototype/sbs-frontend-prototype",
+	"sources": [
+		"assets/scss/main.scss",
+		"assets/scss/_variables.scss",
+		"assets/scss/_global.scss"
+	],
+	"sourcesContent": [
+		"@import \"variables\";\n@import \"global\";\n",
+		"",
+		"body {\n  margin: 0;\n  padding: 0;\n  background-color: #faf9f8;\n  font-family: \"Source Sans Pro\", sans-serif;\n  overflow-x: hidden;\n}\n"
+	],
+	"names": [],
+	"mappings": "AEAA,AAAA,IAAI,AAAC,CACH,MAAM,CAAE,CAAC,CACT,OAAO,CAAE,CAAC,CACV,gBAAgB,CAAE,OAAO,CACzB,WAAW,CAAE,6BAA6B,CAC1C,UAAU,CAAE,MAAM,CACnB"
+}
